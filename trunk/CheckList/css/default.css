@@ -1,0 +1,16 @@
+﻿*				{margin:0; padding:0; font-size:12px; text-decoration:none; color:#4d4d4d;}
+a				{color:#4d4d4d}
+.clear			{height:0; overflow:hidden; clear:both}
+.ctwrp          {width:1020px; margin:0 auto}
+.graybg         {background:#fafafa}
+.hide           {display:none}
+.invisible      {visibility:hidden}
+ul li           {list-style-type:none}
+p,div           {margin:0}
+body            {font-family:"微软雅黑", Arial, Helvetica, sans-serif!important}
+.addform        {margin:30px auto}
+.addform td     {line-height:30px}
+.addform td.tt  {font-size:16px; font-weight:bold; text-align:center}
+.addform td.label   {text-align:right; padding-right:10px; width:20%; vertical-align:top}
+.addform td.tbtn    {padding:10px 0}
+.addform td.brln    {white-space:pre; line-height:26px}
